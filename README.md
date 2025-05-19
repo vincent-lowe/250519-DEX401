@@ -84,6 +84,8 @@ https://anypoint.mulesoft.com/exchange/?view=grid&type=app
 |Lazybones|Leon Redbone||
 |I Was Doing All Right|Louis Armstrong||
 |Charlie Dunn|Jerry Jeff Walker||
+Smooth Criminal|Luca Stricagnoli|One man, One guitar, three knecks|
+
 
 
 
