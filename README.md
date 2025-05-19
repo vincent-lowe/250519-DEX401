@@ -16,7 +16,7 @@ Zoom Meeting Password:xUEbBj63Q8
 
 Trailhead Academy:			https://trailheadacademy.salesforce.com/my-learning
 
-Attendance Code:		
+Attendance Code:		2IFI1O
 
 Salesforce Mimeo:			https://salesforce.mimeo.digital/MuleSoft
 
