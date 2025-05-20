@@ -12,6 +12,7 @@ Meeting ID: 86076094928
 
 Zoom Meeting Password:xUEbBj63Q8
 
+checkpoint project: https://drive.google.com/file/d/1uvHcU-R9Rnurx0HbE2LUG51xYDhWAs1Y/view?usp=drive_link
 -------------------------------------------------------------------------------------------------------------------
 
 Trailhead Academy:			https://trailheadacademy.salesforce.com/my-learning
