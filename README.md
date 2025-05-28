@@ -5,6 +5,22 @@ DEX401 - Anypoint Development Fundamentals Classroom Reference
 250519 - 8:30am EDT
 
 Vincent Lowe - vlowe@salesforce.com
+-------------------------------------------------------------------------------------------------------------------
+Final Thoughts
+-------------------------------------------------------------------------------------------------------------------
+Thanks again for the great work you did this week. I encourage you to keep in touch with us and let us know
+about your accomplishments as you create Application Networks with API led connectivity.
+
+The snapshots folder has jar files from the experiments we did together. You may examine them, or even
+operate them if you add the Application Properties with your own credendials and endpoints. Simply
+go to ../src/main/resources/config.yaml and put in the values for your own project.
+
+Be sure to work through the Reading List to deepen your mastery prior to the Certification Exam. You know
+which topics you want to focus on.
+
+It was a pleasure working with you and I hope to see you in the classroom again!
+
+-------------------------------------------------------------------------------------------------------------------
 
 Zoom Link: https://salesforce-training.zoom.us/j/86076094928?pwd=92RP7zvEvrd7Yf4mLCoZRoGeqAvosv.1
 
